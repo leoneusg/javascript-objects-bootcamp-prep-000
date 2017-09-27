@@ -1,1 +1,1 @@
-var playlist { Future: 'Stick Talk' }
+var playlist = { Future: 'Stick Talk' }
